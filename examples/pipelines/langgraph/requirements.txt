@@ -1,0 +1,9 @@
+fastapi
+langgraph-agent
+langchain-core
+langgraph
+langchain-anthropic
+pydantic
+python-dotenv
+requests
+typing-extensions
